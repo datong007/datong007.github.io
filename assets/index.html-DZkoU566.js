@@ -1,0 +1,1 @@
+import{_ as t,c as o,a,o as n,r as s}from"./app-BoumdQoN.js";const c={};function r(l,_){const e=s("Catalog");return n(),o("div",null,[a(e)])}const p=t(c,[["render",r],["__file","index.html.vue"]]),m=JSON.parse('{"path":"/posts/","title":"Posts","lang":"en-US","frontmatter":{"title":"Posts"},"headers":[],"git":{},"filePathRelative":null,"excerpt":""}');export{p as comp,m as data};
